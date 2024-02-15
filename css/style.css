@@ -1,0 +1,11 @@
+
+#search-field{
+    border:#000 solid 2px;
+}
+.form-box{
+    gap: 10px;
+   
+}
+.item-box{
+    transition: all 1s;
+}
